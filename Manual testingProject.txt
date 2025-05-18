@@ -1,0 +1,114 @@
+Manual testing Project 
+
+Understanding and Explore the Functionality
+Test Plan 
+Writing test scenarios
+Writing test case and Reviews
+Enviroment setup and Build deployement
+Test Execution
+Bug Reporting and Tracking
+Sanity Testing, Restesting, and Regression testing
+Test sign off
+
+
+Customer - Product
+but everyaday can acess and Open
+
+
+how will we understand the requirement
+Ans:
+We will not going to get and ui we get first document
+FRS DOCUMENT and based on that we will going to preparea test plan and test scenarios
+
+Mockup screens - dummy screens in your documents
+Testing life cycle (Identify scenarios, prepare test plan, write test case, prepare rtm, 
+test case execution, defect tracking, test case execution report, retrospect meeting)
+Identify the scenarios 2 days get doubt talk to developer , designer, manager
+prepare test plan = 
+write test case = 
+
+
+Product is developed by the company
+their are two types of layers
+Frontend and backend
+Frontend application can be seen Through internet publicly  they are internet applications
+and The backend part that is only visible to admin and it is private they are
+intranet applications.
+We just test applications frontend
+
+Table of contents 
+Inclusions - Features need to be tested and 
+Exclsion -features need not to be tested
+Test delieverables- deliever one document 
+
+
+Tools - MS word, jira, bugzilla 
+
+Inclusions:
+
+Register
+Login and Logout
+Forgot password
+Search
+Product compare
+Product display page
+Add to cart
+Wish list
+Shopping cart
+Currencies
+Home page
+Checkout page
+My account page
+Order history page
+Downloads page
+Contact us page
+Menu options
+Footer options
+category page
+
+From our understanding we believe above functional areas need to be testeed
+
+Test plan created by test lead
+Test enviroment 
+windows 10
+Chrome browser
+
+Exclusions
+Features are need not to be tested
+
+all the features 
+all the third party features or payment gateways
+Test automation
+
+
+Test strategy
+
+Step 1 Creation of test scenarios and test cases for the different features in scope
+
+We will apply several test design techniques while creating test cases
+Equivalence class partition
+Boundry value analysis
+Decision table testing
+State transition testing
+use case testing
+
+We also use our expertise in creating test cases by applying the below:
+Error guessing
+Exploratory testing
+
+We prioritise the test cases
+
+Step 2:
+Our testing process when we get an application for testing
+1. Firstly we will perform smoke testing to check whether the different and important functionalities
+of the applications are working.
+2. We reject the build if the smoke testing fails and will wait for the stable build before 
+performing in depth testing the functionalities of an application
+3. Once we recieve a stable build which passes smoke testing, we perform In depth testing using
+the test cases created.
+4. Multiple resources will be testing the same Apllication on multiple supported Enviroments
+simultaneously.
+5. We then report the bugs in bug tracking tool and send you the defect found on that day in a 
+status and end of the day email
+6. will perform smoke and sanity regression and restesting, usabiltiy functionlity and ui testing
+
